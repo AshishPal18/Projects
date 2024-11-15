@@ -20,6 +20,7 @@ All Projects List :
 | 13.   | DICEE-GAME                                        |  https://github.com/AshishPal18/DICEE-GAME               |
 | 14.   | TIN-DOG                                           |  https://github.com/AshishPal18/TIN-DOG              |
 | 15.   | Projects                                          |  https://github.com/AshishPal18/Projects             |
+| 16.   | JavaScript                                        |https://github.com/AshishPal18/JavaScript0.2          |
 
 
 
